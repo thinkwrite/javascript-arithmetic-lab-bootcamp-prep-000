@@ -1,6 +1,7 @@
 var a = 2
+var b = 10
 
 function add() {
-  1 + 11
+  a += b
 }
 
