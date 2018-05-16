@@ -1,7 +1,7 @@
-var number = 10
+1 + 11
 
-function add5() {
-  number += 5
-}
+12 - 3
 
-add5()
+4 * 5
+
+29 / 4
